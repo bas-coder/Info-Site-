@@ -1,0 +1,17 @@
+//FONT
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+//GLOBAL
+* {
+    margin: 0;
+    padding: 1px;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.app {
+    height: 99vh;
+    background-color: lightgray;
+}
+
